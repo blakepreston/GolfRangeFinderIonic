@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rangefinder-dev-153659-authRole",
+      "UnauthRoleArn": "arn:aws:iam::625054246666:role/amplify-rangefinder-dev-153659-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::625054246666:role/amplify-rangefinder-dev-153659-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-rangefinder-dev-153659-deployment",
+      "UnauthRoleName": "amplify-rangefinder-dev-153659-unauthRole",
+      "StackName": "amplify-rangefinder-dev-153659",
+      "StackId": "arn:aws:cloudformation:us-east-2:625054246666:stack/amplify-rangefinder-dev-153659/37476d60-ce56-11ec-b42a-0a5413446dd0",
+      "AmplifyAppId": "d1yz31vn1hpb6i"
+    },
+    "categories": {
+      "auth": {
+        "rangefinder1b861430": {}
+      }
+    }
+  }
+}

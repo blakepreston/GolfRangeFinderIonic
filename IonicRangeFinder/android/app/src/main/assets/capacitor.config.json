@@ -1,0 +1,6 @@
+{
+	"appId": "tech.blakepreston.golfrangefinder",
+	"appName": "Golf Range Finder",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
